@@ -1,3 +1,7 @@
+学号：2310274043 姓名：杨晓帆
+复现论文名称：Faking Fake News for Real Fake News Detection: Propaganda-loaded Training Data Generation
+
+
 # Faking Fake News for Real Fake News Detection: Propaganda-loaded Training Data Generation (ACL 2023)
 
 
