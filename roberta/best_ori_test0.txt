@@ -1,0 +1,4 @@
+<__main__.PropaFakeDataset object at 0x7f6f6818bdf0>
+Test accuracy: 0.7617634534835815. 
+Test AUC: 0.4856531100667978. 
+Test F1: 0.8647738209817132. 
