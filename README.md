@@ -15,6 +15,10 @@
     cd roberta/
     python test.py
 
+
+# 实验结果
+![image](https://github.com/ml-master/Propaganda-Loaded-Training-Data-Generation/assets/58066192/4d8655ec-587a-4588-ac94-5ecbb6768af6)
+
     
 # Faking Fake News for Real Fake News Detection: Propaganda-loaded Training Data Generation (ACL 2023)
 
