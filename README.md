@@ -5,14 +5,19 @@
 
 预处理后的数据集放在data/下
 
-##模型训练
+## 模型训练
 
 运行以下代码，训练模型
 
-
+    cd roberta/
     python train.py
     
+运行以下代码，测试结果
 
+    cd roberta/
+    python test.py
+
+    
 # Faking Fake News for Real Fake News Detection: Propaganda-loaded Training Data Generation (ACL 2023)
 
 
