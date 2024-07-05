@@ -8,12 +8,12 @@
 运行以下代码，训练模型
 
     cd roberta/
-    python train.py
+    python train_roberta.py
     
 运行以下代码，测试结果
 
     cd roberta/
-    python test.py
+    python test_roberta.py
 
 
 # 实验结果
