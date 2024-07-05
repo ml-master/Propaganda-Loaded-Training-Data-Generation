@@ -6,10 +6,12 @@
 预处理后的数据集放在data/下
 
 ##模型训练
+
 运行以下代码，训练模型
+
     ```python
     python train.py
-    print("Hello, World!");
+    
     ```
 
 # Faking Fake News for Real Fake News Detection: Propaganda-loaded Training Data Generation (ACL 2023)
