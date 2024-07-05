@@ -2,10 +2,8 @@
 
 复现论文名称：Faking Fake News for Real Fake News Detection: Propaganda-loaded Training Data Generation
 
+将课程提供的6个数据集按照7:3的比例将数据分为训练集和测试集，预处理后的数据集放在data/下。
 
-预处理后的数据集放在data/下
-
-## 模型训练
 
 运行以下代码，训练模型
 
