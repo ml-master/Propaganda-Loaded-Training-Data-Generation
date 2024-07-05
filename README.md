@@ -9,11 +9,9 @@
 
 运行以下代码，训练模型
 
-    ```
-    
+
     python train.py
     
-    ```
 
 # Faking Fake News for Real Fake News Detection: Propaganda-loaded Training Data Generation (ACL 2023)
 
