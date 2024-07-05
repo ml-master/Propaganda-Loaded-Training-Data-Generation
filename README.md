@@ -9,7 +9,8 @@
 
 运行以下代码，训练模型
 
-    ```python
+    ```
+    
     python train.py
     
     ```
